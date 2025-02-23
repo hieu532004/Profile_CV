@@ -1,0 +1,50 @@
+{
+  "Header": {
+    "about": "Về tôi",
+    "projects": "Dự án",
+    "contact": "Liên hệ",
+    "hire": "Thuê tôi",
+    "skills": "Kỹ năng",
+    "knowledge": "Kiến thức"
+  },
+  "Info": {
+    "hi": "Xin chào ✌, tôi là",
+    "name": "Khánh Linh",
+    "bio":"Chào mừng bạn đã khám phá hồ sơ của Linh, một nhà sáng tạo đầy nhiệt huyết, nơi nghệ thuật và công nghệ giao thoa trong thiết kế số. Linh luôn tận tâm mang đến những trải nghiệm người dùng trực quan và sâu sắc, kết hợp tầm nhìn sáng tạo với sự chính xác về kỹ thuật.",
+   "year":" Số năm kinh nghiệm",
+    "github":"Số sao trên GitHub",
+    "feedback":"Phản hồi tích cực",
+    "completed":"Dự án đã hoàn thành" 
+  },
+  "Projects": {
+    "projects": "Danh mục dự án",
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tìm kiếm dự án theo tiêu đề hoặc lọc theo danh mục",
+    "All": "Tất cả",
+    "Mobile": "Di động",
+    "Website": "Web",
+    "Design": "Thiết kế",
+    "readMore" :"Xem thêm "
+  },
+  
+  "Contact":{
+    "name_bg":"Tên",
+    "phone_bg":"Số điện thoại",
+    "location_bg":"Địa chỉ",
+    "email_bg":"Email",
+   "title": "Liên Hệ",
+   "message": "Cảm ơn bạn đã khám phá công việc của tôi! Tôi rất vui được kết nối với bạn. Nếu bạn có một dự án cần làm , muốn hợp tác, hoặc chỉ muốn chào hỏi, hãy thoải mái liên hệ.",
+   "email": "vokhanhlinhdeveloper@gmail.com",
+   "phone": "+82 10 2500 0935",
+   "name": "Võ Khánh Linh",
+   "location": "Hậu Giang, Việt Nam"
+  },
+  
+  "Detail":{
+    "Platforms":"Nền tảng",
+    "Features":"Tính năng chính",
+    "Technologies" :"Công nghệ sử dụng",
+    "Responsibility":"Trách nhiệm của tôi"
+
+  }
+}

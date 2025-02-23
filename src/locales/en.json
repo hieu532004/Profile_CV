@@ -1,0 +1,50 @@
+{
+  "Header": {
+    "about": "About me",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hire": "Hire me",
+    "skills": "Skills",
+    "knowledge": "Knowledge"
+  },
+  "Info": {
+    "hi": "Hello ✌, I am",
+    "name": "Khanh Linh",
+    "bio": "Explore the portfolio of Khanh Linh, a dynamic innovator blending artistry and technology at the heart of digital design. Khan is dedicated to crafting intuitive, impactful user experiences that seamlessly combine creative vision with technical precision.",
+    "year":" Years of experience",
+    "github":"Stars on GitHub",
+    "feedback":"Positive feedback",
+    "completed":"Projects completed"
+  },
+  "Projects":{
+    "projects": "Projects portfolio",
+    "search": "Search",
+    "searchPlaceholder": "Search projects by title or filter by category",
+    "All": "All",
+    "Mobile": "Mobile",
+    "Website": "Web",
+    "Design": "Design",
+    "readMore":" Read more"
+  },
+
+  "Contact":{
+    "name_bg":"name",
+    "phone_bg":"phone",
+    "email_bg":"email",
+    "location_bg":"address",
+    "title": "Contact",
+    "message": "Thank you for exploring my work! I'm excited to connect with you. Whether you have a project in mind, want to collaborate, or just want to say hello, feel free to reach out.",
+    "email": "vokhanhlinhdeveloper@gmail.com",
+    "phone": "+82 10 2500 0935",
+    "name": "Vo Khanh Linh",
+    "location": "Hau Giang, Viet Nam"
+  },
+  "Detail":{
+    "Platforms":"Platforms",
+    "Features":"Key Features",
+    "Technologies" :"Technologies Used",
+    "Responsibility":"My Responsibility"
+
+  }
+
+}
