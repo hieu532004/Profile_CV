@@ -14,7 +14,7 @@ export const Products: React.FC = () => {
   
     const t = useTranslations("Projects");
     const params = useParams();
-    const locale = params?.locale as "en" | "vi" | "kr";
+    const locale = params?.locale as "en" | "vi" ;
     const truncateDescription = (description: string, maxLength: number) => {
         if (description.length > maxLength) {
             return description.slice(0, maxLength) + '...'; // Thêm dấu '...' nếu cắt ngắn

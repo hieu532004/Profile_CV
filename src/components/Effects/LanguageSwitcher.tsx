@@ -5,7 +5,7 @@ import { FC } from 'react';
 
 const LanguageSwitcher: FC = () => {
   const params = useParams();
-  const locale = params.locale; // Lấy ngôn ngữ từ params (ví dụ: 'kr', 'en', 'vi')
+  const locale = params.locale; // Lấy ngôn ngữ từ params (ví dụ: 'en', 'vi')
 
   const handleLocaleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const newLocale = e.target.value;

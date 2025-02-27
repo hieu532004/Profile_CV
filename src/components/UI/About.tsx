@@ -39,17 +39,17 @@ export const AboutPage = () => {
             {t('bio')}
           </p>
           <div className="flex justify-center lg:justify-start">
-          <a
-  download={`${locale}/CV-KhanhLinh.pdf`}
-  href={`/${locale}/CV-KhanhLinh.pdf`}
-  className="font-medium flex justify-center items-center w-36 sm:w-48 mt-8 mb-6 sm:mb-0 border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500 text-gray-500 hover:text-white duration-500"
-  aria-label="Download CV"
->
-  <FiArrowDownCircle className="mr-2 sm:mr-3 h-5 w-5 sm:w-6 sm:h-6 duration-100" />
-  <span className="text-sm sm:text-base font-general-medium duration-100">
-    {locale === "kr" ? "다운로드 CV" : locale === "vi" ? "Tải xuống CV" : "Download CV"}
-  </span>
-</a>
+            <a
+              download={`${locale}/CV-KhanhLinh.pdf`}
+              href={`/${locale}/CV-KhanhLinh.pdf`}
+              className="font-medium flex justify-center items-center w-36 sm:w-48 mt-8 mb-6 sm:mb-0 border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500 text-gray-500 hover:text-white duration-500"
+              aria-label="Download CV"
+            >
+              <FiArrowDownCircle className="mr-2 sm:mr-3 h-5 w-5 sm:w-6 sm:h-6 duration-100" />
+              <span className="text-sm sm:text-base font-general-medium duration-100">
+                {locale === "kr" ? "다운로드 CV" : locale === "vi" ? "Tải xuống CV" : "Download CV"}
+              </span>
+            </a>
 
           </div>
         </div>

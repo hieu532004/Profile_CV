@@ -62,7 +62,7 @@ const FloatingButton: React.FC = () => {
 
     const botResponse =
       botResponses[normalizedMessage] ||
-      "Xin lỗi, mình không hiểu câu hỏi của bạn. Bạn có thể thử lại bằng tiếng Việt, tiếng Anh hoặc tiếng Hàn";
+      "Xin lỗi, mình không hiểu câu hỏi của bạn. Bạn có thể thử lại bằng tiếng Việt hoặc tiếng Anh";
 
     setResponses(prevResponses => [
       ...prevResponses,

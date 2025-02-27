@@ -11,11 +11,11 @@ function AppFooterCopyright() {
 				&copy; 2023
 				
 				<a
-					href="https://github.com/Khanhlinh952001"
+					href="https://github.com/hieu532004"
 					target="__blank"
 					className="text-secondary-dark dark:text-secondary-light font-thin hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 ml-1 duration-500"
 				>
-					Khanh_Linh
+					Trung_Hieu
 				</a>
 			</div>
 		</div>
@@ -28,12 +28,12 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiFacebook  />,
-		url: 'https://www.facebook.com/linh.vokhanh.395/',
+		url: 'https://www.facebook.com/trung.hieu.558079',
 	},
 	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/Khanhlinh952001',
+		url: 'https://github.com/hieu532004',
 	},
 	// {
 	// 	id: 3,
