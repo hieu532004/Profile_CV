@@ -98,10 +98,10 @@ const FloatingButton: React.FC = () => {
 
       {isOpen && (
         <div className="absolute bottom-16 right-0 flex flex-col items-end space-y-2">
-          <Link href="https://github.com/Khanhlinh952001" className="bg-gray-800 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
+          <Link href="https://github.com/hieu532004" className="bg-gray-800 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </Link>
-          <Link href="https://www.facebook.com/linh.vokhanh.395" className="bg-blue-600 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.facebook.com/trung.hieu.558079" className="bg-blue-600 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
             <FaFacebook />
           </Link>
           {/* <Link href="https://twitter.com" className="bg-blue-400 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
