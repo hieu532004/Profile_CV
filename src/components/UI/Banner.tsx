@@ -22,7 +22,7 @@ export const Banner: React.FC = () => {
           data-aos-duration="500"
           className="flex flex-wrap justify-center gap-10 container mx-auto font-general-medium"
         >
-          <StatItem value={5} label={t('year')} />
+          <StatItem value={2} label={t('year')} />
           <StatItem value="8k+" label={t('github')}  />
           <StatItem value="92%" label={t('feedback')}  />
           <StatItem value="89%" label={t('completed')}  />
