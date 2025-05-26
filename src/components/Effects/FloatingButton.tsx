@@ -110,7 +110,7 @@ const FloatingButton: React.FC = () => {
           <Link href="https://linkedin.com" className="bg-blue-700 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </Link> */}
-          <Link href="https://instagram.com" className="bg-pink-600 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.instagram.com/hieu05324/?hl=en" className="bg-pink-600 text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </Link>
           <Link href="https://tiktok.com" className="bg-black text-white p-3 rounded-full shadow-lg transition-transform transform hover:scale-110" target="_blank" rel="noopener noreferrer">
